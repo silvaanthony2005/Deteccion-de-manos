@@ -3,7 +3,7 @@
 Este proyecto utiliza la cámara web para detectar las manos y reproducir sonidos diferentes según los dedos que se levanten. Está desarrollado en Python utilizando las librerías OpenCV, MediaPipe y Pygame.
 
 ## Requisitos
-- Python 3.x
+- Python 3.10 o 3.12
 - OpenCV (`pip install opencv-python`)
 - MediaPipe (`pip install mediapipe`)
 - Pygame (`pip install pygame`)
